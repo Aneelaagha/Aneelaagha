@@ -16,4 +16,3 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aneelaagha&theme=tokyonight)
 
 
-![Aneela's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aneelaagha&theme=tokyonight)
