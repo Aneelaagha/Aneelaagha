@@ -14,3 +14,6 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aneelaagha&theme=tokyonight)
+
+
+![Aneela's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aneelaagha&theme=tokyonight)
