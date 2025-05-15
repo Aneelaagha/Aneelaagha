@@ -10,9 +10,12 @@
 
 
 
+### 🤯 Me debugging at 2AM like:
+
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJoM3NzZGlrdDRmYzFldXQ5YXZ3czBkZWZiYWs4Z2lubmphMDFociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BSnweZrgIoQ6jlvYx4/giphy.gif" width="280px" alt="Debugging Meltdown" />
+  <img src="https://media4.giphy.com/media/BSnweZrgIoQ6jlvYx4/giphy.gif" width="280px" alt="Debugging Meltdown" />
 </p>
+
 
 
 ### ⚡ Tech Stack
