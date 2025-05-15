@@ -10,9 +10,9 @@
 
 ### When my code finally works after 17 failed attempts:
 
-<p align="center">
+
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTY3ejVkZDkyMDI3bTEzOHZuZGRoNHVhejhqdms1dDMxZGZuNDZ5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bMdZu3fG2ZEBO/giphy.gif" width="300px" alt="Code Success Dance" />
-</p>
+
 
 ### ⚡ Tech Stack
 
