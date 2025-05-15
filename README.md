@@ -13,7 +13,13 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNuZG42NnkxcmNxZTIzaDZ5MDNvMWNxbDVwdzBsdG0wMDR6MW8zbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C4NdKtRaQE9m8/giphy.gif" alt="Matrix vibes" width="80%" />
+</p>
+
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aneelaagha&theme=tokyonight)
 
 ![GitHub Snake](https://aneelaagha.github.io/github-snake/github-contribution-grid-snake.svg)
+
 
