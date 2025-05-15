@@ -6,9 +6,13 @@
 - 🧠 Debugging: 30% logic, 70% staring blankly at the screen
 - ✨ Dreaming of making projects that solve real-world problems (and also look cool)
 
-> 💬 Fun fact: I write poetry and code — both require just the right indentation.
+> 💬 Fun fact: I write poetry and code — both require just the right indentation
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJoM3NzZGlrdDRmYzFldXQ5YXZ3czBkZWZiYWs4Z2lubmphMDFociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BSnweZrgIoQ6jlvYx4/giphy.gif" width="300px" alt="Debugging Meltdown" />
+
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJoM3NzZGlrdDRmYzFldXQ5YXZ3czBkZWZiYWs4Z2lubmphMDFociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BSnweZrgIoQ6jlvYx4/giphy.gif" width="280px" alt="Debugging Meltdown" />
+</p>
 
 
 ### ⚡ Tech Stack
