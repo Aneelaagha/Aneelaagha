@@ -1,6 +1,12 @@
-## Hi, I'm Aneela! 👋
-- 🔭 I’m currently learning software engineering.
-- 🌱 Skills: Python and trying to add more
+## 👋 Hey there, I'm Aneela!
+
+- 🐍 Fluent in Python — I talk to snakes (and they listen)
+- 🌱 Growing my skills like a well-watered React app
+- 💻 Building stuff that breaks, then fixing it like a boss
+- 🧠 Debugging: 30% logic, 70% staring blankly at the screen
+- ✨ Dreaming of making projects that solve real-world problems (and also look cool)
+
+> 💬 Fun fact: I write poetry and code — both require just the right indentation.
 
 ### ⚡ Tech Stack
 
