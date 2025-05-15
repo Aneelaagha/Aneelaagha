@@ -8,8 +8,7 @@
 
 > 💬 Fun fact: I write poetry and code — both require just the right indentation
 
-
-https://media0.giphy.com/media/3V33ssIjg0BUGafaU0/giphy.gif
+<img src="https://media0.giphy.com/media/3V33ssIjg0BUGafaU0/giphy.gif" width="300px" alt="Confident coding moment" />
 
 
 
