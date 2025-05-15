@@ -11,6 +11,7 @@
 <img src="https://media0.giphy.com/media/3V33ssIjg0BUGafaU0/giphy.gif" width="300px" alt="Confident coding moment" />
 
 
+![Aneela's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aneelaagha&show_icons=true&theme=tokyonight)
 
 ### ⚡ Tech Stack
 
