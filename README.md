@@ -9,12 +9,7 @@
 > 💬 Fun fact: I write poetry and code — both require just the right indentation
 
 
-
-### 🤯 Me debugging at 2AM like:
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/BSnweZrgIoQ6jlvYx4/giphy.gif" width="280px" alt="Debugging Meltdown" />
-</p>
+https://media0.giphy.com/media/3V33ssIjg0BUGafaU0/giphy.gif
 
 
 
