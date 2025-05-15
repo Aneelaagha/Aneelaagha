@@ -15,4 +15,5 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aneelaagha&theme=tokyonight)
 
+![GitHub Snake](https://aneelaagha.github.io/github-snake/github-contribution-grid-snake.svg)
 
