@@ -8,6 +8,12 @@
 
 > 💬 Fun fact: I write poetry and code — both require just the right indentation.
 
+### When my code finally works after 17 failed attempts:
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTY3ejVkZDkyMDI3bTEzOHZuZGRoNHVhejhqdms1dDMxZGZuNDZ5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bMdZu3fG2ZEBO/giphy.gif" width="300px" alt="Code Success Dance" />
+</p>
+
 ### ⚡ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -19,7 +25,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNuZG42NnkxcmNxZTIzaDZ5MDNvMWNxbDVwdzBsdG0wMDR6MW8zbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C4NdKtRaQE9m8/giphy.gif" alt="Matrix vibes" width="50%" />
+
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aneelaagha&theme=tokyonight)
