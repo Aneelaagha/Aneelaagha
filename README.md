@@ -8,7 +8,7 @@
 
 > 💬 Fun fact: I write poetry and code — both require just the right indentation.
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJoM3NzZGlrdDRmYzFldXQ5YXZ3czBkZWZiYWs4Z2lubmphMDFociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BSnweZrgIoQ6jlvYx4/giphy.gif" width="300px" alt="Debugging meltdown" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJoM3NzZGlrdDRmYzFldXQ5YXZ3czBkZWZiYWs4Z2lubmphMDFociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BSnweZrgIoQ6jlvYx4/giphy.gif" width="300px" alt="Debugging Meltdown" />
 
 
 ### ⚡ Tech Stack
