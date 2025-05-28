@@ -10,6 +10,12 @@
 
 <img src="https://media0.giphy.com/media/3V33ssIjg0BUGafaU0/giphy.gif" width="300px" alt="Confident coding moment" />
 
+## 🧠 CodeMentor AI
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](http://codementor.live)
+
+CodeMentor AI is an intelligent code explainer tool that I made. Paste your code, choose a language, and get a smart explanation generated using Cohere's NLP capabilities.
+
 
 ![Aneela's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aneelaagha&show_icons=true&theme=tokyonight)
 
