@@ -35,6 +35,5 @@ CodeMentor AI is an intelligent code explainer tool that I made. Paste your code
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aneelaagha&theme=tokyonight)
 
-![GitHub Snake](https://aneelaagha.github.io/github-snake/github-contribution-grid-snake.svg)
 
 
