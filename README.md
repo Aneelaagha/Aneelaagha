@@ -6,7 +6,7 @@
 - 🧠 Debugging: 30% logic, 70% staring blankly at the screen
 - ✨ Dreaming of making projects that solve real-world problems (and also look cool)
 
-> 💬 Fun fact: I write poetry and code — both require just the right indentation
+> 💬 Fun fact: I write poetry and code, both require just the right indentation
 
 <img src="https://media0.giphy.com/media/3V33ssIjg0BUGafaU0/giphy.gif" width="300px" alt="Confident coding moment" />
 
