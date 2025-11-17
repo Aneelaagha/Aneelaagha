@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm Aneela!
 
-- 🐍 Fluent in Python — I talk to snakes (and they listen)
+- 🐍 Fluent in Python. I talk to snakes (and they listen)
 - 🌱 Growing my skills like a well-watered React app
 - 💻 Building stuff that breaks, then fixing it like a boss
 - 🧠 Debugging: 30% logic, 70% staring blankly at the screen
