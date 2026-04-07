@@ -2,15 +2,6 @@
 
 > 💬 Fun fact: I write poetry and code, both require just the right indentation
 
-## 🧠 CodeMentor AI
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](http://codementor.live)
-
-CodeMentor AI is an intelligent code explainer tool that I made. Paste your code, choose a language, and get a smart explanation generated using Cohere's NLP capabilities.
-
-
-![Aneela's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aneelaagha&show_icons=true&theme=tokyonight)
-
 ### ⚡ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
