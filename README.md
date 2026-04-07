@@ -1,14 +1,6 @@
-## 👋 Hey there, I'm Aneela!
-
-- 🐍 Fluent in Python. I talk to snakes (and they listen)
-- 🌱 Growing my skills like a well-watered React app
-- 💻 Building stuff that breaks, then fixing it like a boss
-- 🧠 Debugging: 30% logic, 70% staring blankly at the screen
-- ✨ Dreaming of making projects that solve real-world problems (and also look cool)
+## 👋 Hey there, I'm Aneela
 
 > 💬 Fun fact: I write poetry and code, both require just the right indentation
-
-<img src="https://media0.giphy.com/media/3V33ssIjg0BUGafaU0/giphy.gif" width="300px" alt="Confident coding moment" />
 
 ## 🧠 CodeMentor AI
 
