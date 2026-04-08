@@ -1,96 +1,73 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Aneela+%F0%9F%91%8B;Poetry+writer+%F0%9F%8C%B8+%7C+Coder+by+profession+%F0%9F%92%BB;Passionate+about+emerging+tech+%E2%9A%A1" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Aneelaagha">
-    <img src="https://komarev.com/ghpvc/?username=Aneelaagha&style=for-the-badge&color=a78bfa&labelColor=0d0d14" alt="Profile Views"/>
-  </a>
-  <img src="https://img.shields.io/github/followers/Aneelaagha?style=for-the-badge&color=60a5fa&labelColor=0d0d14" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Aneelaagha?style=for-the-badge&color=f472b6&labelColor=0d0d14" alt="Stars"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Hey,%20I'm%20Aneela%20%F0%9F%91%8B&fontSize=42&fontColor=fff&fontAlignY=36&desc=Poetry%20writer%20by%20heart%20%E2%80%A2%20Coder%20by%20profession&descAlignY=58&descColor=d8b4fe"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=C084FC&center=true&vCenter=true&width=500&lines=Passionate+about+emerging+tech+%E2%9A%A1;Both+poetry+%26+code+need+right+indentation+%F0%9F%98%84;Always+learning%2C+always+building+%F0%9F%8C%B1)](https://github.com/Aneelaagha)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Aneelaagha&style=flat-square&color=c084fc&label=profile+views" />
+
+</div>
 
 ---
 
-<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="coding gif"/>
 
-### 🌸 About Me
+### 🌸 &nbsp;About Me
 
-```python
-class Aneela:
-    name       = "Aneela Agha"
-    pronouns   = "she/her"
-    location   = "Florida, USA 🌴"
-    passion    = ["Poetry ✍️", "Coding 💻", "Emerging Tech ⚡"]
-    fun_fact   = "I write poetry & code — both need just the right indentation 😄"
-    currently  = "Learning & building cool things!"
-```
+&nbsp;&nbsp;&nbsp;🧕 &nbsp;Hi, I'm **Aneela Agha** — she/her  
+&nbsp;&nbsp;&nbsp;🌴 &nbsp;Based in **Florida, USA**  
+&nbsp;&nbsp;&nbsp;⚡ &nbsp;Passionate about **emerging tech & coding**  
+&nbsp;&nbsp;&nbsp;🌸 &nbsp;Poetry writer by heart  
+&nbsp;&nbsp;&nbsp;🌱 &nbsp;Currently growing my skills in **full-stack development**  
+&nbsp;&nbsp;&nbsp;✨ &nbsp;*"I write poetry and code — both require just the right indentation"*
 
 <br clear="right"/>
 
 ---
 
-### ⚡ Tech Stack
+### 🛠 &nbsp;Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=white&color=7c3aed"/>
+  <img src="https://img.shields.io/badge/Java-informational?style=flat-square&logo=openjdk&logoColor=white&color=7c3aed"/>
+  <img src="https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=7c3aed"/>
+  <img src="https://img.shields.io/badge/HTML5-informational?style=flat-square&logo=html5&logoColor=white&color=7c3aed"/>
+  <img src="https://img.shields.io/badge/CSS3-informational?style=flat-square&logo=css3&logoColor=white&color=7c3aed"/>
+  <img src="https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=7c3aed"/>
+  <img src="https://img.shields.io/badge/SQL-informational?style=flat-square&logo=mysql&logoColor=white&color=7c3aed"/>
+  <img src="https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=white&color=7c3aed"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 &nbsp;GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aneelaagha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d14&title_color=a78bfa&icon_color=60a5fa&text_color=e2e2f0" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aneelaagha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d14&title_color=a78bfa&text_color=e2e2f0" height="165"/>
-</p>
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Aneelaagha&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true"/>
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aneelaagha&layout=compact&theme=midnight-purple&hide_border=true"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aneelaagha&theme=tokyonight&hide_border=true&background=0d0d14&ring=a78bfa&fire=f472b6&currStreakLabel=60a5fa"/>
-</p>
+<br/>
 
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aneelaagha&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aneelaagha&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+</div>
 
 ---
 
-### 🌟 Pinned Projects
+### 🐍 &nbsp;Contribution Activity
 
-<p align="center">
-  <a href="https://github.com/Aneelaagha/twitter-scraper-using-twscrape">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aneelaagha&repo=twitter-scraper-using-twscrape&theme=tokyonight&hide_border=true&bg_color=0d0d14&title_color=a78bfa&icon_color=60a5fa&text_color=e2e2f0"/>
-  </a>
-  <a href="https://github.com/Aneelaagha/Java-Interpreter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aneelaagha&repo=Java-Interpreter&theme=tokyonight&hide_border=true&bg_color=0d0d14&title_color=a78bfa&icon_color=60a5fa&text_color=e2e2f0"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aneelaagha/Aneelaagha/output/github-contribution-grid-snake-dark.svg"/>
+</div>
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aneelaagha/Aneelaagha/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <i>✨ "I write poetry and code — both require just the right indentation." ✨</i>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer"/>
+</div>
