@@ -18,12 +18,14 @@
 
 ### 🌸 &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;🧕 &nbsp;Hi, I'm **Aneela Agha** — she/her  
-&nbsp;&nbsp;&nbsp;🌴 &nbsp;Based in **Florida, USA**  
-&nbsp;&nbsp;&nbsp;⚡ &nbsp;Passionate about **emerging tech & coding**  
-&nbsp;&nbsp;&nbsp;🌸 &nbsp;Poetry writer by heart  
-&nbsp;&nbsp;&nbsp;🌱 &nbsp;Currently growing my skills in **full-stack development**  
-&nbsp;&nbsp;&nbsp;✨ &nbsp;*"I write poetry and code — both require just the right indentation"*
+```yaml
+name:       Aneela Agha
+pronouns:   she/her
+location:   Florida, USA 🌴
+passion:    [emerging tech, coding, poetry]
+learning:   full-stack development
+fun_fact:   poetry and code both need the right indentation 😄
+```
 
 <br clear="right"/>
 
@@ -31,16 +33,41 @@
 
 ### 🛠 &nbsp;Tech Stack
 
+**Languages**
+
 <p>
   <img src="https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=white&color=7c3aed"/>
   <img src="https://img.shields.io/badge/Java-informational?style=flat-square&logo=openjdk&logoColor=white&color=7c3aed"/>
   <img src="https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=7c3aed"/>
-  <img src="https://img.shields.io/badge/HTML5-informational?style=flat-square&logo=html5&logoColor=white&color=7c3aed"/>
-  <img src="https://img.shields.io/badge/CSS3-informational?style=flat-square&logo=css3&logoColor=white&color=7c3aed"/>
-  <img src="https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=7c3aed"/>
   <img src="https://img.shields.io/badge/SQL-informational?style=flat-square&logo=mysql&logoColor=white&color=7c3aed"/>
-  <img src="https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=white&color=7c3aed"/>
 </p>
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-informational?style=flat-square&logo=html5&logoColor=white&color=6d28d9"/>
+  <img src="https://img.shields.io/badge/CSS3-informational?style=flat-square&logo=css3&logoColor=white&color=6d28d9"/>
+</p>
+
+**Databases & Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=5b21b6"/>
+  <img src="https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=white&color=5b21b6"/>
+  <img src="https://img.shields.io/badge/GitHub-informational?style=flat-square&logo=github&logoColor=white&color=5b21b6"/>
+  <img src="https://img.shields.io/badge/VS%20Code-informational?style=flat-square&logo=visualstudiocode&logoColor=white&color=5b21b6"/>
+</p>
+
+---
+
+### 💻 &nbsp;Coding Activity
+
+```text
+Python       ████████████░░░░░░░░   55%
+Java         ███████░░░░░░░░░░░░░   30%
+JavaScript   ███░░░░░░░░░░░░░░░░░   10%
+Other        █░░░░░░░░░░░░░░░░░░░    5%
+```
 
 ---
 
@@ -56,14 +83,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Aneelaagha&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-</div>
-
----
-
-### 🐍 &nbsp;Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Aneelaagha/Aneelaagha/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 ---
