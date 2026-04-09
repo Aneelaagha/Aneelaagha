@@ -54,10 +54,6 @@ $ agent --info Aneelaagha
 
 ### `> stats --username Aneelaagha`
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aneelaagha&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00ffcc&text_color=c9d1d9&bg_color=0d1117" height="165"/>
-</div>
 
 <br/>
 
