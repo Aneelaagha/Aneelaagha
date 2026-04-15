@@ -52,11 +52,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aneelaagha&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00FF9C&icon_color=00ccff&text_color=ccffee&bg_color=0a0a0a" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aneelaagha&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FF9C&text_color=ccffee&bg_color=0a0a0a" height="165"/>
 
-</div>
 
 <div align="center">
 
